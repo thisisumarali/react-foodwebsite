@@ -21,8 +21,8 @@ const Section1 = () => {
           </Col>
           <Col lg={5}>
             <div className='hero_text text-center'>
-              <h1 className='text-white'>New Pizza</h1>
-              <h2 className='text-white'>With Sauces</h2>
+              <h1 className='text-white'>Tasty Food</h1>
+              <h2 className='text-white'>Explore More</h2>
               <p className='text-white pt-2 pb-4'>
                 Facilisis, est nulla
                 facilisis ipsum, in elementum dui purus ac justo.
