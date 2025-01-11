@@ -390,19 +390,27 @@ footer .copy_right ul li:last-child::after {
   font-size: 1.5rem;
   color: var(--white);
 }
-@media (max-widht: 1200px) {
+@media (max-width: 1200px) {
   .promotion_section h2 {
     font-size: 2.25rem;
   }
-
+  .price_badge {
+    right: 55px;
+  }
   .contact_section h2 {
     font-size: 3.5rem;
   }
   .contact_section p {
     width: 100%;
   }
+  .hero_section .price_badge {
+    right: 55px;
+  }
 }
 @media (max-width: 767px) {
+  .hero_section .price_badge {
+    right: 55px;
+  }
   .hero_section .hero_text h1 {
     font-size: 5.5rem;
   }
